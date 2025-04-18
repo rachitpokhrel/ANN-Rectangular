@@ -1,0 +1,12 @@
+TfWater = 273.150
+T0 = 34.000
+Tinf = 34.00
+Tin = 35.000        
+h_inf = 0.001 
+LX = 0.5000
+LY = 1.0000
+deltaT_Blood = 2.000
+deltaT_Tissue = 8.000
+P0 = 0.75
+P_Variable = True
+DTYPE = 'float32'
